@@ -1,10 +1,10 @@
 var Dinosaur = {
-  var name = "Sam";
-  var species = "T-Rex";
-  var speedInMPH = 50;
-  var age = 10;
-  var isHandsome = true;
-  var isTired = false;
-  var favoriteFoods = ["small dinosaurs", "big dinosaurs"];
-  var hobbies = ["chasing dinosaurs", "eating dinosaurs"];
+  name:"Sam";
+  species:"T-Rex";
+  speedInMPH:50;
+  age:10;
+  isHandsome:true;
+  isTired:false;
+  favoriteFoods:["small dinosaurs", "big dinosaurs"];
+  hobbies:["chasing dinosaurs", "eating dinosaurs"];
 }
