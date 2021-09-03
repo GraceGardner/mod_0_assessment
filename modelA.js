@@ -1,4 +1,4 @@
-var Dinosaur{
+var Dinosaur = {
   var name = "Sam";
   var species = "T-Rex";
   var speedInMPH = 50;
