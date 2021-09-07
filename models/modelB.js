@@ -8,3 +8,4 @@ var Developer = {
   hobbies:["walks in the park", "singing in the forest"],
   favoritePlaces:["home", "the park", "the forest"]
 }
+ 

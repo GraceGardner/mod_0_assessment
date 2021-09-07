@@ -8,3 +8,4 @@ var Dinosaur = {
   favoriteFoods:["small dinosaurs", "big dinosaurs"],
   hobbies:["chasing dinosaurs", "eating dinosaurs"]
 }
+ 
